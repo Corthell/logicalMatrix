@@ -1,0 +1,9 @@
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\bin\Release\logicalMatrix.exe.config
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\bin\Release\logicalMatrix.exe
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Release\logicalMatrix.About.resources
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Release\logicalMatrix.MainForm.resources
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Release\logicalMatrix.csproj.GenerateResource.Cache
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Release\logicalMatrix.exe
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Release\logicalMatrix.csprojResolveAssemblyReference.cache
+E:\Różne\Projekty\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\bin\Release\logicalMatrix.exe.config
+E:\Różne\Projekty\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Release\logicalMatrix.exe

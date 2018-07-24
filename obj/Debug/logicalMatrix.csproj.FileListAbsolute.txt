@@ -1,0 +1,26 @@
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\logicalMatrix\logicalMatrix\bin\Debug\logicalMatrix.exe.config
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\logicalMatrix\logicalMatrix\bin\Debug\logicalMatrix.exe
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\logicalMatrix\logicalMatrix\bin\Debug\logicalMatrix.pdb
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.csprojResolveAssemblyReference.cache
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.MainForm.resources
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.csproj.GenerateResource.Cache
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.exe
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.pdb
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\bin\Debug\logicalMatrix.exe.config
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.exe
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.pdb
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\bin\Debug\logicalMatrix.exe
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\bin\Debug\logicalMatrix.pdb
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.csprojResolveAssemblyReference.cache
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.MainForm.resources
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.csproj.GenerateResource.Cache
+E:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\bin\Debug\logicalMatrix.exe.config
+E:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\bin\Debug\logicalMatrix.exe
+E:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\bin\Debug\logicalMatrix.pdb
+E:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.csprojResolveAssemblyReference.cache
+E:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.MainForm.resources
+E:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.csproj.GenerateResource.Cache
+E:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.exe
+E:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.pdb
+E:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.About.resources
+H:\##PROGRAMOWANIE##\c#\#Projekty\logicalMatrix\logicalMatrix\obj\Debug\logicalMatrix.About.resources
